@@ -1,6 +1,6 @@
 # NLW - Esport
  
-![preview](./.github/preview.png)
+![preview](C:\Users\admin\Desktop\MARCIO PROGRAMAÇÂO\Curso em Video\NLW---Esport\.github\preview.png)
 
 > Trilha Explorer
 
