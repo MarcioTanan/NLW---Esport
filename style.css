@@ -31,6 +31,10 @@ main {
   max-width: 580px;
   width: 90%;
   margin: auto;
+
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
 }
 
 section {
@@ -46,3 +50,21 @@ section p {
   letter-spacing: -0.18;
   color: #a1a1aa;
 }
+
+section ul {
+  display: flex;
+  gap: 16px;
+
+  margin-top: 24px;
+}
+
+.game-list img {
+  width: 90px;
+    border-radius: 8px;
+}
+
+.channel-list img {
+  border-radius: 50%;
+  width: 70px;
+}
+
